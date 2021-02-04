@@ -1,5 +1,5 @@
 set -e
-git config user.email "bot@byteqode.com"
+git config user.email "action@github.com"
 git config user.name "Bot"
 npm i
 npm run release -- --ci minor
